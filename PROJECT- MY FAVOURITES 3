@@ -1,0 +1,83 @@
+<html> 
+
+<head>
+<title> 
+ My favourite 3   
+</title> 
+    <link rel="stylesheet" href="style.css"> <link href="https://fonts.googleapis.com/css?
+    family=Cinzel+Decorative&display=swap" rel="stylesheet"> <link rel="stylesheet"
+       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    
+</head>
+  
+    <body>
+    <ul class="menu">
+       <li class="links"> <a href="#Welcome">Home </a> </li> 
+        <li class="links"> <a href="#Videos">Videos </a> </li>
+        <li class="links"> <a href="#Work"> Work </a> </li>
+    <li class="links"> <a href="#Writings">Writings </a> </li>
+    <li class="links">  <a href="#Contacts">Contacts      </a>  </li>
+        </ul>
+        
+        
+        <section id="welcome">
+        <div class="parallax-inner">
+           <img src="https://tse1.mm.bing.net/th?id=OIP.VwglZElzcCbflIvEL_j1EAHaGO&pid=Api&P=0&w=204&h=173">
+            <h1> My favourite hobby is to read books</h1>
+            
+            
+            
+            
+            </div>
+        </section>
+        <section id="bio">
+        <h1> Hi!!</h1>
+            <div class="line"> </div>
+            <p>When you start loving the habit of reading you eventually get addicted to it. Reading develops language skills and vocabulary. Reading books is also a way to relax and reduce stress. It is important to read a good book at least for a few minutes each day to stretch the brain muscles for healthy functioning.
+            
+            
+            </p>
+        </section>
+        <section id="Videos">
+        <h1> Videos </h1>
+            <br>
+            <iframe width="956" height="538" src="https://www.youtube.com/embed/-s89IBEaBzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <br>
+            <br>
+            <iframe width="956" height="538" src="https://www.youtube.com/embed/kes8z77gikw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            
+        
+        
+        </section>
+        <section id="Work">
+            <h1>Work</h1>
+            <br>
+          
+        </section>
+    </body>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+</html>
